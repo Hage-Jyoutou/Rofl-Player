@@ -1,5 +1,5 @@
 # Rofl-Player
-- ダウンロードは[こちら](https://www.dropbox.com/s/k4jz91ojnmykl31/Rofl-Player.zip)
+- ダウンロードは[こちら](https://www.dropbox.com/s/k4jz91ojnmykl31/Rofl-Player.zip)　[(ミラーリンク)](http://unity5jp.wp.xdomain.jp/Soft/Rofl-Player.zip)
 - LOLのリプレイファイル(.rofl)を再生を手助けするソフトです。他の人にリプレイを見せたい時等に使ってください。
 - クライアントの再生ボタンで再生するのと同様、バージョンアップによるパッチ変更後に前のリプレイは再生できません。
 - LOLの実行ファイルはゲームを起動するためのものではなく、LOLをインストールしてあるフォルダの下層にある以下のものをお使い下さい
